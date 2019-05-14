@@ -1,3 +1,3 @@
 # TP_Analyse_donnees
 
-Pour le TP1 il faudra remplacer le chemin d'importation des fichiers par leur nouvel emplacement
+Pour les TP1 et TP2 il faudra remplacer le chemin d'importation des fichiers par leur nouvel emplacement
